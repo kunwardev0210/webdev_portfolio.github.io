@@ -51,9 +51,7 @@ portfolio/
 
 https://github.com/kunwardevvratsingh-max/webdev_portfolio.github.io
 
-### Open the project
 
-Simply open `index.html` in your browser.
 
 ---
 
