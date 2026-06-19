@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, achievements, education, and contact information in a clean and responsive design.
+Welcome to my personal portfolio website! This project showcases my skills, projects, achievements, education, and interest in a clean and responsive design.
 
 ## 🚀 Live Demo
 
