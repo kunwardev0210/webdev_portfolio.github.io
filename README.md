@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🚀 Live Demo
 
-🔗https://kunwardevvratsingh-max.github.io/webdev_portfolio.github.io/
+🔗https://kunwardev0210.github.io/webdev_portfolio.github.io/
 
 
 
@@ -49,7 +49,7 @@ portfolio/
 
 ### Clone the repository
 
-https://github.com/kunwardevvratsingh-max/webdev_portfolio.github.io
+https://github.com/kunwardev0210/webdev_portfolio.github.io
 
 
 
@@ -70,7 +70,7 @@ https://github.com/kunwardevvratsingh-max/webdev_portfolio.github.io
 
 **Dev Singh**
 
-- GitHub: https://github.com/kunwardevvratsingh-max
+- GitHub: https://github.com/kunwarde0210
 
 ## ⭐ Support
 
